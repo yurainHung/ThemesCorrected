@@ -93,11 +93,11 @@
             "#04122e",
             "#04122e"
         ],
-	    "BG_BACKDROP": [
-	        "#102b48b3",
-			"#102b48b3",
-			"#102b48b3"
-		],
+	"BG_BACKDROP": [
+	    "#102b48b3",
+	    "#102b48b3",
+	    "#102b48b3"
+	],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
             "#0a2848",
             "#dcddde",
@@ -363,6 +363,11 @@
             "#9d0006",
             "#fb4934"
         ],
+	"TYPING_INDICATOR_BG": [
+	    "#00000066",
+	    "#00000066",
+	    "#00000066"
+	],
         "TEXTBOX_MARKDOWN_SYNTAX": [
             "#076678",
             "#076678",
