@@ -84,9 +84,9 @@
             "#242437"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0c1a2d",
-            "#0c1a2d",
-            "#0c1a2d"
+            "#111423",
+            "#111423",
+            "#111423"
         ],
         "BACKGROUND_TERTIARY": [
             "#04122e",
@@ -114,9 +114,9 @@
             "#2780E64d"
         ],
         "CHAT_BACKGROUND": [
-            "#00000099",
-            "#00000099",
-            "#00000099"
+            "transparent",
+            "transparent",
+            "transparent"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#81b6ef",
