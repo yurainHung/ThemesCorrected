@@ -104,9 +104,9 @@
 	    "#0c1a2d"
 	],
 	"BG_SURFACE_OVERLAY_TMP": [
-            "#593f3f",
-	    "#593f3f",
-	    "#593f3f"
+            "#03081c",
+	    "#03081c",
+	    "#03081c"
         ],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
             "#0a2848",
@@ -347,6 +347,11 @@
 	    "#111423",
             "#111423",
             "#111423"
+	],
+	"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+	    "#03081c",
+	    "#03081c",
+	    "#03081c"
 	],
         "SCROLLBAR_AUTO_THUMB": [
             "#061428",
