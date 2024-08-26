@@ -99,9 +99,9 @@
 	    "#102b48b3"
 	],
 	"BG_BASE_PRIMARY": [
-	    "transparent",
-	    "transparent",
-	    "transparent"
+	    "#0c1a2d",
+	    "#0c1a2d",
+	    "#0c1a2d"
 	],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
             "#0a2848",
