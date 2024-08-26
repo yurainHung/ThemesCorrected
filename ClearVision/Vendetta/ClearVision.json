@@ -99,9 +99,9 @@
 	    "#102b48b3"
 	],
 	"BG_BASE_PRIMARY": [
-	    "#0c1a2d",
-	    "#0c1a2d",
-	    "#0c1a2d"
+	    "#03081c",
+	    "#03081c",
+	    "#03081c"
 	],
 	"BG_SURFACE_OVERLAY_TMP": [
             "#03081c",
@@ -352,6 +352,11 @@
 	    "#03081c",
 	    "#03081c",
 	    "#03081c"
+	],
+	"REDESIGN_BUTTON_SECONDARY_BORDER": [
+	    "#222959",
+            "#222959",
+            "#222959"
 	],
         "SCROLLBAR_AUTO_THUMB": [
             "#061428",
