@@ -203,6 +203,11 @@
             "#dcddde",
             "#000000"
         ],
+	"EXPRESSION_PICKER_BG": [
+	    "#111423",
+	    "#111423",
+	    "#111423"
+	],
         "FOCUS_PRIMARY": [
             "#0a2848",
             "#dcddde",
@@ -460,7 +465,8 @@
         "RED_460": "#2780E6",
         "GREEN_360": "#689d6a",
         "WHITE_500": "#dcddde",
-        "YELLOW_300": "#2780E6"
+        "YELLOW_300": "#2780E6",
+	"PLUM_20": "#111423"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/main/ClearVision/Vendetta/eOIFmqY.jpeg",
