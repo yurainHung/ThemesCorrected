@@ -103,6 +103,11 @@
 	    "#0c1a2d",
 	    "#0c1a2d"
 	],
+	"BG_SURFACE_OVERLAY_TMP": [
+            "#593f3f",
+	    "#593f3f",
+	    "#593f3f"
+        ],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
             "#0a2848",
             "#dcddde",
