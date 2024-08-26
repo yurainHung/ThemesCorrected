@@ -213,6 +213,11 @@
             "#dcddde",
             "#000000"
         ],
+	"EMBED_BACKGROUND": [
+	    "#031d30b3",
+	    "#031d30b3",
+	    "#031d30b3"
+	],
         "ELEVATION_STROKE": [
             "#0a2848",
             "#dcddde",
